@@ -1,7 +1,7 @@
 package com.bptn.course._05_strings;
 
 import java.util.Scanner;
-
+// New Comment
 public class StringDemo {
 
 	public static void main(String[] args) {
