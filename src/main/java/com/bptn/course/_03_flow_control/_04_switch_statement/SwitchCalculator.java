@@ -3,7 +3,7 @@ package com.bptn.course._03_flow_control._04_switch_statement;
 import java.util.Scanner;
 
 public class SwitchCalculator {
-
+	// Adding a new comment
 	public static void main(String[] args) {
 		
 		Scanner scanner = new Scanner(System.in);
