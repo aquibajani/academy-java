@@ -42,6 +42,14 @@ public class StringDemo {
 //		Print the count
 		System.out.println("The number of vowels are: "+vowelCount);
 		System.out.println("The number of consonants are: "+consonantCount);
+		System.out.println("The number of vowels are: "+vowelCount);
+		System.out.println("The number of consonants are: "+consonantCount);
+		System.out.println("The number of vowels are: "+vowelCount);
+		System.out.println("The number of consonants are: "+consonantCount);
+		System.out.println("The number of vowels are: "+vowelCount);
+		System.out.println("The number of consonants are: "+consonantCount);
+		System.out.println("The number of vowels are: "+vowelCount);
+		System.out.println("The number of consonants are: "+consonantCount);
 	}
 
 }

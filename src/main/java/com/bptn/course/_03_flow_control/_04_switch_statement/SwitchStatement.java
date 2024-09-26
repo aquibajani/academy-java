@@ -9,8 +9,8 @@ public class SwitchStatement {
 		Scanner scanner = new Scanner(System.in);
 		// if-else, nested-if, if-else-if-ladder
 		
-//		System.out.println("Enter a number (1-7): ");
-//		int day = scanner.nextInt();
+		System.out.println("Enter a number (1-7): ");
+		int day = scanner.nextInt();
 		
 		// Switch Case
 //		switch(day) {
