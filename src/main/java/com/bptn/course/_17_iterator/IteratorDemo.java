@@ -7,8 +7,6 @@ public class IteratorDemo {
 
 	public static void main(String[] args) {
 
-		// This is Iterator Demo
-
 		ArrayList<String> myBooks = new ArrayList<>();
 
 		// Add 3 favorite books to this list
